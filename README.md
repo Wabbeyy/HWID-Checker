@@ -1,4 +1,4 @@
-## HWID-CHECKER | By me
+## HWID-SCAN | By me
 
 --- 
     
