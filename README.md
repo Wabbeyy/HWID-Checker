@@ -12,7 +12,7 @@
  Sort the steps of use Ifthere is no number written in front
 ---
 
-## 🤓・ How To Use 
+## 🔗・ How To Use 
 #### 1. First , you have to check your current hwid to compare it with the new ones:
 
 - Open HWID-CHECKER.bat
