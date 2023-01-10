@@ -15,7 +15,7 @@
 ## 🔗・ How To Use 
 #### 1. First , you have to check your current hwid to compare it with the new ones:
 
-- Open HWID-CHECKER.bat
+- Open HWID-SCAN.bat
 - Copy and paste results into notepad and save the file
  
 ---
