@@ -32,6 +32,5 @@
   <br>
 
 <p align="center">
-  Copyright © 2021 - 2022
+  Copyright © 2023 - 2024
 <br>
-
